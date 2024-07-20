@@ -1,6 +1,6 @@
 #include "Geode/binding/FLAlertLayer.hpp"
 #include "Geode/cocos/cocoa/CCObject.h"
-#include "Geode/modify/ClassName.hpp"
+#include <Geode/modify/ClassName.hpp>
 #include <Geode/Geode.hpp>
 
 using namespace geode::prelude;
