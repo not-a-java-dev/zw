@@ -13,7 +13,7 @@
 	"description": "zw mod",
 	"tags":[
 		"customization"
-	]
+	],
 	"resources": {
 		"sprites": [
 			"resources/*.png"
