@@ -42,7 +42,9 @@
             "version": ">=v1.9.1",
             "importance": "required",
             "platforms": [
-                "windows"
+                "win",
+		"android32",
+		"android64"
             ]
 		}
 	],
