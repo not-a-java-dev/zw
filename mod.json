@@ -11,6 +11,9 @@
 	"name": "zw mod",
 	"developer": "zhyvelle",
 	"description": "zw mod",
+	"tags":[
+		"customization"
+	]
 	"resources": {
 		"sprites": [
 			"resources/*.png"
